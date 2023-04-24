@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+C:\Users\Hunter\Documents\Coding\BST Imlementation\BST Imlementation\App.xaml.cpp(105,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
